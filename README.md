@@ -56,3 +56,5 @@ necessarily flags: `fltk-config --ldflags --use-images` -lfltk
 ---
 
 What the files? I don't remember anymore, but let them be xD
+
+![preview image](first_example/preview.jpg)
